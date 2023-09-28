@@ -1,0 +1,2 @@
+# WAM
+Web Artifact Magic
